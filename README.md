@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there I'm Riska👋
 
 - 🔭 I’m currently studying at Sriwijaya University
 - 🌱 I’m currently learning Big Query and Machine Learning :octocat:
