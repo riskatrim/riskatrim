@@ -11,7 +11,7 @@
 ![picture alt](https://github.com/topics/javascript)
 
 ### Stats ###
-[![Riska's GitHub stats](https://github-readme-stats.vercel.app/api?username=riskatrim)](https://github.com/riskatrim/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskatrim)](https://github.com/riskatrim/github-readme-stats)
+[![Riska's GitHub stats](https://github-readme-stats.vercel.app/api?username=riskatrim&show_icons=true&theme=tokyonights)](https://github.com/riskatrim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskatrim&show_icons=true&theme=tokyonights)](https://github.com/riskatrim/github-readme-stats)
 
 
