@@ -12,7 +12,6 @@
 
 ### Stats ###
 [![Riska's GitHub stats](https://github-readme-stats.vercel.app/api?username=riskatrim)](https://github.com/riskatrim/github-readme-stats)
-![Riska's GitHub stats](https://github-readme-stats.vercel.app/api?username=riskatrim&show_icons=true&theme=tokyonights)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskatrim)](https://github.com/riskatrim/github-readme-stats)
 
 
