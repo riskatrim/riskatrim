@@ -11,15 +11,9 @@
 ![picture alt](https://github.com/topics/javascript)
 
 ### Stats ###
-[![Riska's GitHub stats](https://github-readme-stats.vercel.app/api?username=riskatrim&show_icons=true&theme=tokyonights)](https://github.com/riskatrim/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskatrim&show_icons=true&theme=tokyonights)](https://github.com/riskatrim/github-readme-stats)
+[![Riska's GitHub stats](https://github-readme-stats.vercel.app/api?username=riskatrim&show_icons=true&theme=tokyonights)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskatrim&show_icons=true&theme=tokyonights&layout=compact)]
 
-<a href="https://github.com/riskatrim/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=riskatrim&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/riskatrim/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=riskatrim&repo=convoychat" />
-</a>
 
 
 
