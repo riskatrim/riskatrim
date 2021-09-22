@@ -4,6 +4,9 @@
 <!-- @include justify-content([ space-around ]); -->
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+<!-- <a href="https://github.com/riskatrim/github-readme-stats">
+  <img align="left" src="(https://myoctocat.com/assets/images/base-octocat.svg)" />
+</a> -->
 
 - 🌱 I’m currently learning Big Query and Machine Learning :octocat:
 - 👯 I’m looking to collaborate on Web Development.
@@ -29,6 +32,7 @@
 <!-- <img align="center" alt="Riska's stats" src="https://github-readme-stats.vercel.app/api?username=riskatrim&theme=tokyonight&show_icons=true&hide_border=false" />
 <img align="center" alt="Riska's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskatrim&theme=tokyonight&show_icons=true&layout=compact"/>
  -->
+ 
 <a href="https://github.com/riskatrim/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=riskatrim&theme=tokyonight&show_icons=true&hide_border=false"  />
 </a>
@@ -36,6 +40,7 @@
 <a href="https://github.com/riskatrim/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riskatrim&theme=tokyonight&show_icons=true&layout=compact"/>
 </a>
+
 
   
 
