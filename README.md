@@ -1,5 +1,5 @@
 # Hi there I'm Riska👋
-## I am a 3rd year Computer Science Student at Sriwijaya University with a huge interest in Data Science.
+## I am a 3rd year Computer Science Student at Sriwijaya University with a huge interest in Mobile Development.
 
 <!-- @include justify-content([ space-around ]); -->
 
@@ -8,7 +8,7 @@
   <img align="left" src="(https://myoctocat.com/assets/images/base-octocat.svg)" />
 </a> -->
 
-- 🌱 I’m currently learning Big Query and Machine Learning :octocat:
+- 🌱 I’m currently learning Android Development :octocat:
 - 👯 I’m looking to collaborate on Web Development.
 - 📫 How to reach me: rchika532@gmail.com 
 
