@@ -1,5 +1,5 @@
 # Hi there I'm Riska👋
-## I am a 3rd year Computer Science Student at Sriwijaya University with a huge interest in Mobile Development.
+## I am a final year Computer Science Student at Sriwijaya University with a huge interest in Mobile Development.
 
 <!-- @include justify-content([ space-around ]); -->
 
