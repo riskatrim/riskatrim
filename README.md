@@ -1,5 +1,5 @@
 # Hi there I'm Riska👋
-## I a huge interest in Mobile Development.
+## I have a huge interest in Mobile Development.
 
 <!-- @include justify-content([ space-around ]); -->
 
