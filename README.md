@@ -1,5 +1,5 @@
 # Hi there I'm Riska👋
-## I am a final year Computer Science Student at Sriwijaya University with a huge interest in Mobile Development.
+## I a huge interest in Mobile Development.
 
 <!-- @include justify-content([ space-around ]); -->
 
@@ -8,9 +8,8 @@
   <img align="left" src="(https://myoctocat.com/assets/images/base-octocat.svg)" />
 </a> -->
 
-- 🌱 I’m currently learning Android Development :octocat:
-- 👯 I’m looking to collaborate on Web Development.
-- 📫 How to reach me: rchika532@gmail.com 
+- 🌱 A long life learner :octocat:
+- 📫 riskamardilah@gmail.com 
 
 <!-- ### Tech Stack ###
 <a href="https://github.com/topics/java">
