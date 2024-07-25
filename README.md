@@ -1,5 +1,5 @@
 # Hi there I'm Riska👋
-## I have a huge interest in Mobile Development.
+## I have a huge interest in Front End Development.
 
 <!-- @include justify-content([ space-around ]); -->
 
@@ -8,7 +8,7 @@
   <img align="left" src="(https://myoctocat.com/assets/images/base-octocat.svg)" />
 </a> -->
 
-- 🌱 A long life learner :octocat:
+- 🌱 A life long learner :octocat:
 - 📫 riskamardilah@gmail.com 
 
 <!-- ### Tech Stack ###
